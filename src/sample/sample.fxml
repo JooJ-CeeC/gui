@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.Button?>
 <?import javafx.scene.layout.ColumnConstraints?>
 <?import javafx.scene.layout.GridPane?>
 <?import javafx.scene.layout.Pane?>
@@ -15,5 +16,6 @@
    </rowConstraints>
    <children>
       <Pane prefHeight="200.0" prefWidth="200.0" />
+      <Button mnemonicParsing="false" text="Button" />
    </children>
 </GridPane>
